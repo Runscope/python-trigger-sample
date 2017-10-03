@@ -1,4 +1,4 @@
-# python-trigger-sample
+# python-runscope-sample
 Sample Python script for initiating test runs and checking for the results. Use this script in your CI process to start test runs and change the build status based on the result of the tests. If any of the triggered tests fail, the script will exit with a non-zero error code.
 
 ## Usage
